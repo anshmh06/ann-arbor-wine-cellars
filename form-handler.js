@@ -11,7 +11,7 @@
  * version, and the old one silently stops working.
  * ------------------------------------------------------------------------- */
 var FORM_ENDPOINT =
-  'https://script.google.com/macros/s/AKfycbw18q8zCD9c4AW-LB-GrscSAdz_auRl3LxnAvU_hoBeSF4ZDyokk9TntpogImbjHj3I/exec';
+  'https://script.google.com/macros/s/AKfycbxlh1OmY0B8Lja7mMmaRPoL749_s81QvfREO9NIeefpqqu319OpBxg6q9BpqhLmpnW8/exec';
 
 (function () {
   'use strict';
